@@ -24,7 +24,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6 text-center mb-5">
-                <h2 class="heading-section">Without Saving Contact</h2>
+                <h2 class="heading-section">Anonymous Messaging</h2>
 
                 <p class="text-muted "> Say hello to strangers without the commitment.</p>
             </div>

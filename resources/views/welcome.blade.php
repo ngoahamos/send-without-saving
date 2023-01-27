@@ -12,8 +12,8 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"
     />
     <link rel="stylesheet" href="{{asset('/style.css')}}" >
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8133174190330370"
-            crossorigin="anonymous"></script>
+{{--    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8133174190330370"--}}
+{{--            crossorigin="anonymous"></script>--}}
 </head>
 
 <body>

@@ -14,12 +14,12 @@ class PhoneController extends Controller
         Log::create([
             'ip' => \request()->ip()
         ]);
-        session()->flash('loc_token', 'aae88d0e1adf5f');
+        session()->flash('loc_token', config('app.loc_token'));
         return view('welcome');
     }
 
     public function send(Request $request)
     {
-        dd($request);
+
     }
 }

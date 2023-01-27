@@ -2,9 +2,12 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Confirm Phone</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Website for Sending Messages Anonymously</title>
+    <meta name="description" content="This website allows you to send messages anonymously without saving contacts, ensuring your privacy and security while communicating with others.">
+    <meta name="keywords" content="anonymous messaging, privacy, security, communication, messaging">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Amos Ngoah">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link
@@ -23,6 +26,7 @@
             <div class="col-md-6 text-center mb-5">
                 <h2 class="heading-section">Without Saving Contact</h2>
 
+                <p class="text-muted "> Say hello to strangers without the commitment.</p>
             </div>
 
         </div>

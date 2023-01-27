@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Website for Sending Messages Anonymously</title>
+    <title>Anonymous Messaging</title>
     <meta name="description" content="This website allows you to send messages anonymously without saving contacts, ensuring your privacy and security while communicating with others.">
     <meta name="keywords" content="anonymous messaging, privacy, security, communication, messaging">
     <meta name="robots" content="index, follow">

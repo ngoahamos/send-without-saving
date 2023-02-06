@@ -58,7 +58,7 @@
         </div>
 
         <div class="row justify-content-center mt-3">
-            <div class="col-md-6 col-lg-5">
+            <div class="col-md-8 col-lg-5">
                 <p class="text-muted">Introducing the amazing web app that is changing the game for all WhatsApp users! Say goodbye to the frustration of having to save a contact before being able to chat with them. This app is like a magic wand that removes that annoying roadblock and allows you to start chatting with anyone on WhatsApp, instantly. No more scrolling through your phone's contacts, no more typing in numbers, and no more waiting for that contact to be saved. With this app, you can chat with anyone, anywhere, anytime! So why wait? Get your hands on this app now and make your WhatsApp experience more fun and effortless!</p>
             </div>
         </div>
